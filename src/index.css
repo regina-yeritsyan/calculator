@@ -1,0 +1,28 @@
+.value {
+//width: 480px;
+  padding: 10px;
+  background: #828693;
+  color: white;
+  margin: auto;
+  text-align: end;
+}
+
+table {
+  width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #c1c2bd;
+  padding: 15px 30px;
+  text-align: center;
+  background: #e0e0dd;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+td:last-child {
+  background: #f1933d;
+  color: #fffff0;
+}
